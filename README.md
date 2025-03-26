@@ -1,4 +1,4 @@
-# PahuCare
+# PashuCare
 
 PashuCare is a web application designed to connect farmers with veterinary doctors for buffaloes and cows. It aims to bridge the gap between rural farmers and accessible veterinary care by providing an easy-to-use platform for consultations and services.
 
